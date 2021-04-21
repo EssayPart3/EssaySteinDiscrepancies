@@ -80,7 +80,7 @@ def main():
 
 
     #simulation number
-    simul_length=30
+    simul_length=20
     simul=range(simul_length)
     eta = 1
     learningrate=np.repeat(0.01,simul_length+1)
